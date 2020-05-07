@@ -1,0 +1,16 @@
+{
+  "name": "javascripttutorials",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "parcel": "^1.12.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "parcel ./01.DOM-JS/index.html"
+  },
+  "author": "",
+  "license": "ISC"
+}
