@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    background: #999;
+}
+
+.wrapper{
+    width: 600px;
+    margin: 20px auto;
+    padding: 10px;
+    background-color: #fff;
+}
+
+.searchContanier {
+    margin-bottom: 20px;
+}
+
+.searchContanier input{
+    width: 80%;
+    padding: 10px;
+    font-size: 22px;
+}
+
+.searchContanier button{
+    background: #000;
+    padding: 15px;
+    color: #fff;
+    border-radius:5px;
+    border:0;
+}
+
+.itemCounterContainer {
+    margin-bottom: 20px;
+}
+
+.itemListContainer{
+    background-color: #eee;
+    padding: 5px;
+}
+
+.itemListContainer > header{
+  background: #ccc;
+  font-weight: 800;
+}
+
+.itemListContainer > header > span,
+.itemListContainer ul li > span{
+    width: 122px;
+    display: inline-block;
+    border-right:1px solid #000;
+    padding: 10px;
+}
+
+.itemListContainer > header > span:last-child,
+.itemListContainer ul li span:last-child{
+    border-right: 0;
+}
+
+.itemListContainer ul li {
+    list-style: none;
+}
+
+.itemListContainer ul span > button {
+    background: green;
+    padding: 4px;
+    color: #fff;
+    border-radius:2px;
+    border:0;
+}
