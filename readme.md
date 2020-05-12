@@ -16,11 +16,22 @@ In this video, I demo different ways of referring HTML elements in the JavaScrip
 [Code Link](https://github.com/Neha/javascript-tutorials/tree/master/02.attributes)
 
 3. Project
-Build a search module with functionality : sort, add items, and search.
 
-[Youtube Link]()
+3.1 - Build a search module with functionality : sort, add items, and search.
+
+[Youtube Link - Building the Module](https://youtu.be/7oz8b9EgyTY)
+
+[Youtube Link - Implementing the Design pattern](https://youtu.be/GD4AEmmJTpg)
 
 [Code Link](https://github.com/Neha/javascript-tutorials/tree/master/projects/search)
+
+3.2 - Build a tabs Module
+
+[Youtube Link](https://youtu.be/8DvplIW6CXU)
+
+[Code Link](https://github.com/Neha/javascript-tutorials/tree/master/projects/tabs)
+
+
 
 
 
