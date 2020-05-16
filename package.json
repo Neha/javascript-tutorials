@@ -9,7 +9,7 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start" : "parcel ./projects/tabs/index.html"
+    "start" : "parcel ./projects/form/index.html"
   },
   "author": "",
   "license": "ISC"

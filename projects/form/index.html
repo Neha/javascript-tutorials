@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<head>
+    <title>Forms</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+<body>
+    <section class="wrapper">
+        <form>
+            <h1>Register!!</h1>
+            <label for="name">Full Name</label>
+            <input type="text" id="name" name="full name" required/>
+
+            <label for="email">Email</label>
+            <input id="email" type="email"  name="email" required/>
+
+            <label for="tel">Mobile Number</label>
+            <input id="tel" name="Mobile Number" type="tel" />
+
+            <fieldset>
+                <legend>Gender</legend>
+                <label for="male">Male</label>
+                <input id="male" type="radio" name="gender"/>
+
+            <label for="female">Female</label>
+            <input id="female" type="radio" name="gender"/>
+            </fieldset>
+
+            <label for="address">Address</label>
+            <textarea id="address" name="address"></textarea>
+            <button type="submit" >Submit</button>
+        </form>
+    </section>
+</body>
+</html>
